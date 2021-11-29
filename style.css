@@ -5,3 +5,12 @@ p {
   color: blue;
   background-color: blueviolet;
 }
+
+aside {
+  background: blue;
+  color: red;
+  border: 5px solid black;
+  height: 30px;
+  width: 50px;
+  display: inline-block;
+}
